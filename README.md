@@ -18,4 +18,4 @@ snapcraft
 Bug reporting
 -------------
 
-Please create issue on GitHub https://github.com/clgsru/winbox-clear/issues/new
+Please create issue on GitHub https://github.com/panaceya/winbox/issues/new
