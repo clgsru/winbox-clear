@@ -11,7 +11,7 @@ To build the snap yourself, clone this github repo and run snapcraft in the top 
 ```
 sudo snap install snapcraft --classic
 git clone https://github.com/clgsru/winbox-clear.git
-cd winbox
+cd winbox-clear
 snapcraft
 ```
 
